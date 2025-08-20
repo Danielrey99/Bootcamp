@@ -1,0 +1,20 @@
+-ng new				//Crear proyecto
+
+-npm install			//Actualizar y descar dependencias
+
+-cd myProject			//Moverse  a la carpeta del proyecto creado
+-ng --help			//Ver comandos
+-ng g --help			//Ver comandos específicos
+-npm start			//Ejecutarlo (en vs code carpeta ngx)
+-npm run start-local
+-Control + C			//Cerrar el front
+-ng g m tools			//Crea un modulo llamado tools
+
+-ng g m main --routing		//Crea modulo con archivo routing
+-ng g c header			//Crear componente
+
+-mkdir services			//Crear carpeta
+-ng g s				//Crear Servicio
+
+-ng add --help			// ver comandos para añadir librerías
+--ng add @angular/material	//Hace preguntas sobre la instalación
